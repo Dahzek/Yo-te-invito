@@ -57,7 +57,7 @@ void quitarProducto(struct PuntoEncuentro **eventos, int idEvento, int idProduct
 }
 
 void mostrarEventos(struct PuntoEncuentro **eventos){
-    int = 0;
+    int i = 0;
 
     if(eventos[i] == NULL) return 0;
 
